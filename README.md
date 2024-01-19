@@ -1,6 +1,7 @@
 # Heart-Disease-machine-learning-project
 
 age: The person’s age in years
+
 sex: (1 = male, 0 = female)
 cp: chest pain type
 — Value 0: asymptomatic
