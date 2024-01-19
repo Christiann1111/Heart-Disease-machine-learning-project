@@ -1,6 +1,9 @@
 # Heart-Disease-machine-learning-project
 
+In this project we will create a machine learning model that predicts whether a person might have heart disease
 
+
+description of data used :
 
 age: The person’s age in years
 
