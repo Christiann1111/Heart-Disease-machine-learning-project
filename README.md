@@ -1,5 +1,7 @@
 # Heart-Disease-machine-learning-project
 
+
+
 age: The person’s age in years
 
 sex: (1 = male, 0 = female)
@@ -49,6 +51,9 @@ Value 2: normal blood flow
 Value 3: reversible defect (a blood flow is observed but it is not normal)
 
 target: Heart disease (1 = no, 0= yes)
+
+
+
 
 (description of the data by:Hardik Deshmukh) thanks you
 
