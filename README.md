@@ -58,6 +58,6 @@ target: Heart disease (1 = no, 0= yes)
 
 
 
-(description of the data by:Hardik Deshmukh) thanks you
+(description of the data by:Hardik Deshmukh) thank you
 
 Source: https://archive.ics.uci.edu/dataset/45/heart+disease
